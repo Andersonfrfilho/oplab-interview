@@ -18,13 +18,17 @@ Hi! If you wanna work with us, you gotta solve this first. Let's see what you've
 ### General
 Using your favorite programming language:
 
-1. ~~Implement bubble sort.~~<br>
+1. ~~Implement bubble sort.~~
+<br>
  -```Frontend/src/utils/bubbleSort.ts```
-3. ~~Implement a linked list.~~<br>
+3. ~~Implement a linked list.~~
+<br>
  -```Frontend/src/utils/linkedList.js```
-4. ~~Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)(💡️there is no need to signup to this website. Just commit the _gameOfStones_ function implementation and that's it.💡️).~~~<br>
+4. ~~Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)
+~~(💡️there is no need to signup to this website. Just commit the _gameOfStones_ function implementation and that's it.💡️).~~
+<br>
  -```Frontend/src/utils/_gameOfStones_.ts```
-5. Using the twitter API, create a script that given a word as an input, outputs the last 10 tweets containing that word.~~<br>
+5. ~~Using the twitter API, create a script that given a word as an input, outputs the last 10 tweets containing that word.~~<br>
  -```Frontend/src/utils/pages/Home/index.ts```
 
 ### Frontend
@@ -42,7 +46,7 @@ _We will be evaluating everything, from reproduction accuracy, to process. If yo
 _I know, I know... It looks easy compared to the frontend challenge; but don't be fooled! We expect **more** from your answers in here! We will evaluate **how** you answer, and your answer's organization and structure!_
 
 Answer the following questions:
-- Suppose you're working with 3 people on a project. What would be **the** ideal software development process?
+- ~~Suppose you're working with 3 people on a project. What would be **the** ideal software development process?~~
   - ```Scrum```
 - ~~How do you think an entity relationship diagram for _Instagram_ would be like?~~
   - Response
