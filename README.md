@@ -19,17 +19,16 @@ Hi! If you wanna work with us, you gotta solve this first. Let's see what you've
 Using your favorite programming language:
 
 1. ~~Implement bubble sort.~~
-<br>
- -```Frontend/src/utils/bubbleSort.ts```
+ - ```Frontend/src/utils/bubbleSort.ts```
 3. ~~Implement a linked list.~~
-<br>
- -```Frontend/src/utils/linkedList.js```
+
+ - ```Frontend/src/utils/linkedList.js```
 4. ~~Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)
 ~~(💡️there is no need to signup to this website. Just commit the _gameOfStones_ function implementation and that's it.💡️).~~
-<br>
- -```Frontend/src/utils/_gameOfStones_.ts```
+
+ - ```Frontend/src/utils/_gameOfStones_.ts```
 5. ~~Using the twitter API, create a script that given a word as an input, outputs the last 10 tweets containing that word.~~<br>
- -```Frontend/src/utils/pages/Home/index.ts```
+ - ```Frontend/src/utils/pages/Home/index.ts```
 
 ### Frontend
 
