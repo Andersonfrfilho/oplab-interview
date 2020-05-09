@@ -23,7 +23,7 @@ Using your favorite programming language:
 3. ~~Implement a linked list.~~
 
  - ```Frontend/src/utils/linkedList.js```
-4. ~~Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)
+4. ~~Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)~~
 ~~(💡️there is no need to signup to this website. Just commit the _gameOfStones_ function implementation and that's it.💡️).~~
 
  - ```Frontend/src/utils/_gameOfStones_.ts```
