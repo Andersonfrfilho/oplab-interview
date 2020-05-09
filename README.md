@@ -33,7 +33,9 @@ _We will be evaluating everything, from reproduction accuracy, to process. If yo
 
 ~~Reproduce, faithfully, this [page]( http://ydirection.com/Aria/index-3.html ).~~
  - ```cd Frontend```
- - ```yarn start```
+ - ```yarn start```<br>
+ **or**
+ - [page-resolve]( https://andersonfrfilho.github.io/oplab-interview ).
 
 ### Backend
 
